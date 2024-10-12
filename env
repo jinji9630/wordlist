@@ -11,7 +11,13 @@
 /.env.example
 /.env.local
 /.env.php
+/laravel/.env
+/public/.env
+/config/.env
 /.env.prod
+/.env.sample
+/.env.bak
+/.env.old
 /.env.production.local
 /.env.sample.php
 /.env.save
@@ -122,7 +128,6 @@
 /collected_static/.env
 /community/.env
 /conf/.env
-/config/.env
 /ContainerRegistry/.env
 /content/.env
 /core/.env
@@ -294,7 +299,6 @@
 /kolab-syncroton/.env
 /Kubernetes/.env
 /lab/.env
-/laravel/.env
 /latest/.env
 /layout/.env
 /lcomernbootcamp/projbackend/.env
@@ -392,7 +396,6 @@
 /pub/.env
 /public_html/.env
 /public_root/.env
-/public/.env
 /question2/.env
 /qv-frontend/.env
 /rabbitmq-cluster/.env
